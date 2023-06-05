@@ -729,6 +729,13 @@ span {
     html {
         font-size: 55%;
     }
+
+    .about-img {
+        padding-top: 235px;
+    }
+    .about-content {
+        padding-top: 275px;
+    }
 }
 
 @media (max-width: 991px) {
@@ -806,12 +813,12 @@ span {
         transition-delay: .25s;
     }
 
-    .about-img {
+    /* .about-img {
         padding-top: 235px;
     }
     .about-content {
         padding-top: 275px;
-    }
+    } */
     
 
 }
