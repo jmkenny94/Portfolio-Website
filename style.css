@@ -805,6 +805,15 @@ span {
         transform: translateX(0);
         transition-delay: .25s;
     }
+
+    .about-img {
+        padding-top: 235px;
+    }
+    .about-content {
+        padding-top: 275px;
+    }
+    
+
 }
 
 @media (max-width: 520px) {
