@@ -822,7 +822,7 @@ span {
     }
 
     .home-sci {
-        padding-top: 500px
+        display: block;
     }
 
 
