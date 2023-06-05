@@ -725,6 +725,14 @@ span {
 }
 
 /* BREAKPOINTS */
+
+@media (max-width: 1200px) {
+    .home {
+        background:#081b29
+    }
+}
+
+
 @media (max-width: 1200px) {
     html {
         font-size: 55%;
