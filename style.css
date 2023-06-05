@@ -821,14 +821,8 @@ span {
         transition-delay: .25s;
     }
 
-    .home-content {
-        display: flex;
-        flex-direction: column;
-        align-items: flex-start;
-      }
-    
-      .home-sci {
-        margin-top: 20px;
+    .home-sci {
+        display: none;
       }
 
 
