@@ -822,7 +822,7 @@ span {
     }
 
     .home-sci {
-        display: block;
+        content: '';
     }
 
 
